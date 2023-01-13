@@ -1,4 +1,8 @@
 # This is a simple notes app made with react
+This app lets you create notes with title on your local storage.
+If you use this app on your PC then those notes will be limited to you PC as it is using local storage to store the Notes. Even if you refresh those notes will not be deleted automatically.
+
+This is a responsive app and can be used on any device e.g. your phone, PC, Laptop or tablet.
 
 # How to setup ?
 
